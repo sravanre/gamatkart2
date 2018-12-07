@@ -1,0 +1,26 @@
+#surefire
+#Tue Nov 27 13:21:13 IST 2018
+testClassesDirectory=/tmp/sravan/gamutkart2/target/test-classes
+classPathUrl.4=/root/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+classPathUrl.3=/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+classPathUrl.2=/root/.m2/repository/junit/junit/4.12/junit-4.12.jar
+useManifestOnlyJar=true
+classPathUrl.1=/tmp/sravan/gamutkart2/target/classes
+reportsDirectory=/tmp/sravan/gamutkart2/target/surefire-reports
+classPathUrl.0=/tmp/sravan/gamutkart2/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=/tmp/sravan/gamutkart2/src/test/java
+surefireClassPathUrl.1=/root/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/root/.m2/repository/org/apache/maven/surefire/surefire-junit4/2.12.4/surefire-junit4-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=com.gamutkart.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/tmp/sravan/gamutkart2/.surefire-FC8BA6900F488C429F1E8D58E5547205FF407DAC
+includes0=**/Test*.java
+childDelegation=false
